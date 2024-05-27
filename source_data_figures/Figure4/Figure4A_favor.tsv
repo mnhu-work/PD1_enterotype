@@ -1,0 +1,300 @@
+Var1	Var2	cor	p	direction	new_column
+s__Roseburia_intestinalis	Daldinia caldariorum	0.207168460579789	0.02	1	Bacter_fungi
+s__Faecalibacterium_duncaniae	Colletotrichum scovillei	0.323027096269566	0.01	1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Colletotrichum scovillei	0.262092043438841	0.02	1	Bacter_fungi
+s__Anaerostipes_hadrus	Phaeomoniella chlamydospora	-0.229851588037055	0.04	-1	Bacter_fungi
+s__Roseburia_sp._NSJ-69	Phaeomoniella chlamydospora	-0.227525484930485	0.01	-1	Bacter_fungi
+s__Collinsella_aerofaciens	Malassezia globosa	0.236909297629974	0.04	1	Bacter_fungi
+s__Eubacterium_sp._MSJ-33	Malassezia globosa	0.325144968241244	0	1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Malassezia globosa	-0.20197672696983	0.04	-1	Bacter_fungi
+Fusarium redolens	Lachancea meyersii	0.240992389682559	0.03	1	fungi_fungi
+Epicoccum nigrum	Lachancea meyersii	0.252107226360231	0.03	1	fungi_fungi
+s__Faecalibacterium_duncaniae	Lachancea meyersii	0.31827967091071	0.04	1	Bacter_fungi
+s__Roseburia_intestinalis	Exophiala aquamarina	-0.233985981908958	0.02	-1	Bacter_fungi
+s__Roseburia_sp._NSJ-69	Exophiala aquamarina	-0.252330872183117	0.03	-1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Fusarium redolens	0.223277151396153	0.03	1	Bacter_fungi
+s__Coprococcus_eutactus	Epicoccum nigrum	-0.202226443380842	0.03	-1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Ustilago bromivora	0.286607879376242	0.03	1	Bacter_fungi
+s__Haemophilus_parainfluenzae	Ustilago bromivora	0.222199232858917	0.04	1	Bacter_fungi
+s__Lachnospira_eligens	Ustilago bromivora	0.266157282582903	0	1	Bacter_fungi
+Spathaspora passalidarum	Hypoxylon sp. EC38	0.375182359681714	0.02	1	fungi_fungi
+s__Butyrivibrio_hungatei	Hypoxylon sp. EC38	-0.277132842823559	0.03	-1	Bacter_fungi
+Termitomyces sp. J132	Penicillium roqueforti	0.218378251716933	0.03	1	fungi_fungi
+s__Butyrivibrio_hungatei	Penicillium roqueforti	0.238746967835223	0.04	1	Bacter_fungi
+s__Pseudobutyrivibrio_xylanivorans	Penicillium roqueforti	0.301528903128707	0.01	1	Bacter_fungi
+s__Christensenella_sp._Marseille-P3954	Paracoccidioides lutzii	0.233983833363574	0.04	1	Bacter_fungi
+s__Roseburia_sp._NSJ-69	Paracoccidioides lutzii	-0.201738545429141	0.02	-1	Bacter_fungi
+s__Lachnospira_eligens	Penicillium solitum	0.480105095963927	0.01	1	Bacter_fungi
+s__Faecalibacterium_duncaniae	Nannizzia gypsea	0.439042102568474	0.02	1	Bacter_fungi
+s__Ruminococcus_albus	Pseudogymnoascus sp. VKM F-4246	0.239243696453654	0.03	1	Bacter_fungi
+s__Ruminococcus_bicirculans	Pseudogymnoascus sp. VKM F-4246	0.225819084234436	0.02	1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Ogataea polymorpha	0.27150524566531	0.01	1	Bacter_fungi
+s__Roseburia_intestinalis	Ogataea polymorpha	0.214486906395854	0.04	1	Bacter_fungi
+s__Phascolarctobacterium_sp._Marseille-Q4147	Pyrenophora teres	0.275917467596565	0.03	1	Bacter_fungi
+Aspergillus flavus	Botrytis cinerea	0.227870299130509	0.03	1	fungi_fungi
+s__Coprococcus_catus	Botrytis cinerea	-0.253037166677356	0.03	-1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Botrytis cinerea	0.274775353434439	0.02	1	Bacter_fungi
+s__Butyrivibrio_fibrisolvens	Fusarium pseudograminearum	-0.301498494752898	0.04	-1	Bacter_fungi
+s__Butyrivibrio_hungatei	Fusarium pseudograminearum	-0.288489570974043	0.01	-1	Bacter_fungi
+s__Butyrivibrio_proteoclasticus	Fusarium pseudograminearum	-0.287817234950379	0.03	-1	Bacter_fungi
+s__Roseburia_sp._NSJ-69	Fusarium pseudograminearum	-0.325229988500403	0.01	-1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Stemphylium lycopersici	-0.261783292332712	0.02	-1	Bacter_fungi
+s__Roseburia_intestinalis	Aspergillus flavus	0.217374390144693	0.04	1	Bacter_fungi
+s__Vescimonas_fastidiosa	Aspergillus flavus	-0.245185827477139	0.03	-1	Bacter_fungi
+s__Butyrivibrio_fibrisolvens	Termitomyces sp. J132	0.218454986121024	0.04	1	Bacter_fungi
+s__Butyrivibrio_hungatei	Termitomyces sp. J132	0.327175424548496	0.03	1	Bacter_fungi
+s__Butyrivibrio_proteoclasticus	Termitomyces sp. J132	0.275451616200341	0.02	1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	Termitomyces sp. J132	0.268098864974211	0.04	1	Bacter_fungi
+s__Pseudobutyrivibrio_xylanivorans	Termitomyces sp. J132	0.372103197152825	0.02	1	Bacter_fungi
+s__Roseburia_sp._NSJ-69	Termitomyces sp. J132	0.308636312224833	0	1	Bacter_fungi
+s__Coprococcus_catus	Suillus bovinus	-0.241360788672438	0.03	-1	Bacter_fungi
+s__Butyrivibrio_fibrisolvens	Aspergillus ustus	0.266628121821836	0.03	1	Bacter_fungi
+s__Edwardsiella_anguillarum	Aspergillus ustus	-0.221868619307561	0.04	-1	Bacter_fungi
+s__Pseudobutyrivibrio_xylanivorans	Aspergillus ustus	0.271406418343134	0.03	1	Bacter_fungi
+s__Roseburia_hominis	Aspergillus ustus	0.22020045297475	0.04	1	Bacter_fungi
+s__Roseburia_sp._NSJ-69	Aspergillus ustus	0.302520623052859	0.02	1	Bacter_fungi
+s__Bifidobacterium_longum	Cadophora sp. DSE1049	0.26335955822432	0.03	1	Bacter_fungi
+s__Faecalibacterium_prausnitzii	[Candida] haemuloni	0.211311005453814	0.03	1	Bacter_fungi
+s__Roseburia_hominis	Bipolaris sorokiniana	-0.269695779823216	0.03	-1	Bacter_fungi
+s__Anaerobutyricum_hallii	s__[Ruminococcus]_torques	0.417995973865364	0.03	1	Bacter_Bacter
+s__Blautia_massiliensis	s__[Ruminococcus]_torques	0.323168966866909	0.02	1	Bacter_Bacter
+s__Butyrivibrio_fibrisolvens	s__[Ruminococcus]_torques	0.404362236716113	0.02	1	Bacter_Bacter
+s__Butyrivibrio_hungatei	s__[Ruminococcus]_torques	0.439221111704919	0	1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__[Ruminococcus]_torques	0.419162687431311	0.02	1	Bacter_Bacter
+s__Coprococcus_catus	s__[Ruminococcus]_torques	0.427126231253485	0.04	1	Bacter_Bacter
+s__Coprococcus_comes	s__[Ruminococcus]_torques	0.352837312801737	0.03	1	Bacter_Bacter
+s__Dorea_longicatena	s__[Ruminococcus]_torques	0.390961700913366	0.01	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__[Ruminococcus]_torques	0.403913992073372	0.01	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__[Ruminococcus]_torques	0.34329079905899	0.03	1	Bacter_Bacter
+s__Adlercreutzia_hattorii	s__Adlercreutzia_equolifaciens	0.875779105991802	0	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Adlercreutzia_hattorii	0.224098092987943	0.04	1	Bacter_Bacter
+s__Alistipes_dispar	s__Alistipes_communis	0.572150779231052	0.01	1	Bacter_Bacter
+s__Alistipes_senegalensis	s__Alistipes_communis	0.526349066849876	0.01	1	Bacter_Bacter
+s__Alistipes_shahii	s__Alistipes_communis	0.54781431094706	0.03	1	Bacter_Bacter
+s__Edwardsiella_anguillarum	s__Alistipes_communis	0.218487149459732	0.03	1	Bacter_Bacter
+s__Odoribacter_splanchnicus	s__Alistipes_communis	0.403847974084422	0.01	1	Bacter_Bacter
+s__Alistipes_senegalensis	s__Alistipes_dispar	0.530587623900289	0	1	Bacter_Bacter
+s__Alistipes_shahii	s__Alistipes_dispar	0.4537386163994	0	1	Bacter_Bacter
+s__Edwardsiella_anguillarum	s__Alistipes_dispar	0.239808459913307	0.03	1	Bacter_Bacter
+s__Odoribacter_splanchnicus	s__Alistipes_dispar	0.35397769342602	0	1	Bacter_Bacter
+s__Alistipes_shahii	s__Alistipes_senegalensis	0.625233974731123	0.02	1	Bacter_Bacter
+s__Butyrivibrio_fibrisolvens	s__Alistipes_senegalensis	-0.306018070642704	0.03	-1	Bacter_Bacter
+s__Butyrivibrio_hungatei	s__Alistipes_senegalensis	-0.318265626648904	0.03	-1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Alistipes_senegalensis	-0.305319099099078	0.03	-1	Bacter_Bacter
+s__Desulfovibrio_piger	s__Alistipes_senegalensis	0.29645704566976	0.01	1	Bacter_Bacter
+s__Odoribacter_splanchnicus	s__Alistipes_senegalensis	0.399339085387415	0.03	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Alistipes_senegalensis	-0.300644632606623	0.03	-1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Alistipes_senegalensis	0.231805406669932	0.04	1	Bacter_Bacter
+s__Butyrivibrio_fibrisolvens	s__Alistipes_shahii	-0.264170284538452	0.02	-1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Alistipes_shahii	-0.301164102212774	0.04	-1	Bacter_Bacter
+s__Desulfovibrio_piger	s__Alistipes_shahii	0.285120137070933	0.02	1	Bacter_Bacter
+s__Odoribacter_splanchnicus	s__Alistipes_shahii	0.406884233128997	0	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Alistipes_shahii	-0.287185739908778	0.04	-1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Alistipes_shahii	-0.290485226575964	0.01	-1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Alistipes_shahii	0.251507853543947	0.01	1	Bacter_Bacter
+s__Anaerostipes_hadrus	s__Anaerobutyricum_hallii	0.516451210982647	0	1	Bacter_Bacter
+s__Blautia_massiliensis	s__Anaerobutyricum_hallii	0.501556379825333	0.01	1	Bacter_Bacter
+s__Butyrivibrio_fibrisolvens	s__Anaerobutyricum_hallii	0.429167584169356	0.01	1	Bacter_Bacter
+s__Butyrivibrio_hungatei	s__Anaerobutyricum_hallii	0.445115694236672	0	1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Anaerobutyricum_hallii	0.422801249670073	0.02	1	Bacter_Bacter
+s__Coprococcus_catus	s__Anaerobutyricum_hallii	0.556438821921589	0.01	1	Bacter_Bacter
+s__Coprococcus_comes	s__Anaerobutyricum_hallii	0.367493901901942	0.02	1	Bacter_Bacter
+s__Dorea_longicatena	s__Anaerobutyricum_hallii	0.43282260708352	0.04	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Anaerobutyricum_hallii	0.410454739039427	0.01	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Anaerobutyricum_hallii	0.340266134698813	0.02	1	Bacter_Bacter
+s__Ruminococcus_bovis	s__Anaerobutyricum_hallii	0.20722980274102	0.03	1	Bacter_Bacter
+s__Blautia_massiliensis	s__Anaerostipes_hadrus	0.476269691211176	0	1	Bacter_Bacter
+s__Butyrivibrio_fibrisolvens	s__Anaerostipes_hadrus	0.394048231684889	0.02	1	Bacter_Bacter
+s__Butyrivibrio_hungatei	s__Anaerostipes_hadrus	0.399082740856701	0.02	1	Bacter_Bacter
+s__Coprococcus_catus	s__Anaerostipes_hadrus	0.377807577098103	0.02	1	Bacter_Bacter
+s__Dorea_longicatena	s__Anaerostipes_hadrus	0.256112844835573	0.04	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Anaerostipes_hadrus	0.296009331692884	0.02	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Anaerostipes_hadrus	0.373607092749382	0.02	1	Bacter_Bacter
+s__Starkeya_novella	s__Anaerostipes_hadrus	-0.220978175345063	0.02	-1	Bacter_Bacter
+s__Christensenella_sp._Marseille-P3954	s__Bacillus_amyloliquefaciens	0.263170855837953	0.02	1	Bacter_Bacter
+s__Paenibacillus_larvae	s__Bacillus_amyloliquefaciens	0.276739814629346	0.01	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Bacillus_amyloliquefaciens	0.293357486791111	0.02	1	Bacter_Bacter
+s__Bifidobacterium_bifidum	s__Bifidobacterium_adolescentis	0.386714038496226	0.01	1	Bacter_Bacter
+s__Bifidobacterium_catenulatum	s__Bifidobacterium_adolescentis	0.519362033687347	0.02	1	Bacter_Bacter
+s__Bifidobacterium_longum	s__Bifidobacterium_adolescentis	0.375692226863246	0.03	1	Bacter_Bacter
+s__Bifidobacterium_pseudocatenulatum	s__Bifidobacterium_adolescentis	0.36498642171603	0.04	1	Bacter_Bacter
+s__Collinsella_aerofaciens	s__Bifidobacterium_adolescentis	0.310368040016039	0.02	1	Bacter_Bacter
+s__Bifidobacterium_catenulatum	s__Bifidobacterium_bifidum	0.315507020643624	0.01	1	Bacter_Bacter
+s__Bifidobacterium_longum	s__Bifidobacterium_bifidum	0.282048241819058	0.02	1	Bacter_Bacter
+s__Bifidobacterium_longum	s__Bifidobacterium_catenulatum	0.426437055039123	0	1	Bacter_Bacter
+s__Bifidobacterium_pseudocatenulatum	s__Bifidobacterium_catenulatum	0.778294705489062	0.02	1	Bacter_Bacter
+s__Collinsella_aerofaciens	s__Bifidobacterium_catenulatum	0.206296256366894	0.02	1	Bacter_Bacter
+s__Bifidobacterium_pseudocatenulatum	s__Bifidobacterium_longum	0.410304538803995	0.01	1	Bacter_Bacter
+s__Phascolarctobacterium_sp._Marseille-Q4147	s__Bifidobacterium_longum	-0.248778550737639	0.04	-1	Bacter_Bacter
+s__Butyrivibrio_fibrisolvens	s__Blautia_massiliensis	0.295916560631036	0.01	1	Bacter_Bacter
+s__Butyrivibrio_hungatei	s__Blautia_massiliensis	0.272312030306484	0.04	1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Blautia_massiliensis	0.267819709038057	0.01	1	Bacter_Bacter
+s__Coprococcus_catus	s__Blautia_massiliensis	0.439492123192827	0.02	1	Bacter_Bacter
+s__Coprococcus_comes	s__Blautia_massiliensis	0.228991868882947	0.04	1	Bacter_Bacter
+s__Dorea_longicatena	s__Blautia_massiliensis	0.308396969095838	0.04	1	Bacter_Bacter
+s__Eubacterium_sp._NSJ-61	s__Blautia_massiliensis	0.205900877548332	0.02	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Blautia_massiliensis	0.249155337902684	0.03	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Blautia_massiliensis	0.284519764249936	0.02	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Blautia_massiliensis	-0.226620792243271	0.04	-1	Bacter_Bacter
+s__Butyrivibrio_hungatei	s__Butyrivibrio_fibrisolvens	0.934516127663361	0	1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Butyrivibrio_fibrisolvens	0.952989409667532	0.01	1	Bacter_Bacter
+s__Clostridium_novyi	s__Butyrivibrio_fibrisolvens	0.34649729593805	0.02	1	Bacter_Bacter
+s__Collinsella_aerofaciens	s__Butyrivibrio_fibrisolvens	-0.29554153393299	0.04	-1	Bacter_Bacter
+s__Coprococcus_catus	s__Butyrivibrio_fibrisolvens	0.464494364498255	0	1	Bacter_Bacter
+s__Coprococcus_eutactus	s__Butyrivibrio_fibrisolvens	0.468262751161122	0	1	Bacter_Bacter
+s__Dorea_longicatena	s__Butyrivibrio_fibrisolvens	0.220745521477316	0.02	1	Bacter_Bacter
+s__Edwardsiella_anguillarum	s__Butyrivibrio_fibrisolvens	-0.230671904920485	0.01	-1	Bacter_Bacter
+s__Faecalibacterium_prausnitzii	s__Butyrivibrio_fibrisolvens	0.243057916194019	0.03	1	Bacter_Bacter
+s__Lachnospira_eligens	s__Butyrivibrio_fibrisolvens	0.310497509456482	0	1	Bacter_Bacter
+s__Ligilactobacillus_ruminis	s__Butyrivibrio_fibrisolvens	0.397225979733505	0.02	1	Bacter_Bacter
+s__Mageeibacillus_indolicus	s__Butyrivibrio_fibrisolvens	0.392805325146906	0.02	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Butyrivibrio_fibrisolvens	0.879885227656856	0.01	1	Bacter_Bacter
+s__Roseburia_hominis	s__Butyrivibrio_fibrisolvens	0.447588949058374	0.02	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Butyrivibrio_fibrisolvens	0.698300812051978	0.01	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Butyrivibrio_fibrisolvens	0.820062146232826	0.02	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Butyrivibrio_fibrisolvens	0.402589209941689	0.04	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Butyrivibrio_fibrisolvens	-0.3050141983961	0.02	-1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Butyrivibrio_hungatei	0.963949807316306	0	1	Bacter_Bacter
+s__Clostridium_novyi	s__Butyrivibrio_hungatei	0.360602846366905	0.01	1	Bacter_Bacter
+s__Collinsella_aerofaciens	s__Butyrivibrio_hungatei	-0.300989634999647	0.03	-1	Bacter_Bacter
+s__Coprococcus_catus	s__Butyrivibrio_hungatei	0.486149566593051	0.02	1	Bacter_Bacter
+s__Coprococcus_comes	s__Butyrivibrio_hungatei	0.242251176663103	0.04	1	Bacter_Bacter
+s__Coprococcus_eutactus	s__Butyrivibrio_hungatei	0.50984314930221	0.01	1	Bacter_Bacter
+s__Coprococcus_sp._ART55/1	s__Butyrivibrio_hungatei	0.250460637679993	0	1	Bacter_Bacter
+s__Dorea_longicatena	s__Butyrivibrio_hungatei	0.255020067759746	0.04	1	Bacter_Bacter
+s__Edwardsiella_anguillarum	s__Butyrivibrio_hungatei	-0.247443262472853	0.02	-1	Bacter_Bacter
+s__Faecalibacterium_prausnitzii	s__Butyrivibrio_hungatei	0.22430637271532	0.02	1	Bacter_Bacter
+s__Lachnospira_eligens	s__Butyrivibrio_hungatei	0.339946532380482	0.03	1	Bacter_Bacter
+s__Ligilactobacillus_ruminis	s__Butyrivibrio_hungatei	0.443898297277852	0.02	1	Bacter_Bacter
+s__Mageeibacillus_indolicus	s__Butyrivibrio_hungatei	0.41039212239964	0.01	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Butyrivibrio_hungatei	0.947733562442793	0	1	Bacter_Bacter
+s__Roseburia_hominis	s__Butyrivibrio_hungatei	0.426297196914119	0.01	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Butyrivibrio_hungatei	0.670863180241951	0.01	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Butyrivibrio_hungatei	0.818689113821876	0	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Butyrivibrio_hungatei	0.354480432777143	0.02	1	Bacter_Bacter
+s__Ruminococcus_bovis	s__Butyrivibrio_hungatei	0.223825889857108	0.04	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Butyrivibrio_hungatei	-0.331134978144565	0.04	-1	Bacter_Bacter
+s__Clostridium_novyi	s__Butyrivibrio_proteoclasticus	0.380968888905325	0.01	1	Bacter_Bacter
+s__Collinsella_aerofaciens	s__Butyrivibrio_proteoclasticus	-0.294676192289472	0.01	-1	Bacter_Bacter
+s__Coprococcus_catus	s__Butyrivibrio_proteoclasticus	0.471033445392148	0.01	1	Bacter_Bacter
+s__Coprococcus_eutactus	s__Butyrivibrio_proteoclasticus	0.515744258984228	0	1	Bacter_Bacter
+s__Desulfovibrio_piger	s__Butyrivibrio_proteoclasticus	-0.241572861857281	0.04	-1	Bacter_Bacter
+s__Dorea_longicatena	s__Butyrivibrio_proteoclasticus	0.236750455118111	0.01	1	Bacter_Bacter
+s__Edwardsiella_anguillarum	s__Butyrivibrio_proteoclasticus	-0.227619552810758	0.04	-1	Bacter_Bacter
+s__Lachnospira_eligens	s__Butyrivibrio_proteoclasticus	0.369162089484006	0.02	1	Bacter_Bacter
+s__Ligilactobacillus_ruminis	s__Butyrivibrio_proteoclasticus	0.44707459888086	0	1	Bacter_Bacter
+s__Mageeibacillus_indolicus	s__Butyrivibrio_proteoclasticus	0.377464527460642	0.04	1	Bacter_Bacter
+s__Paenibacillus_larvae	s__Butyrivibrio_proteoclasticus	0.224309237080301	0.03	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Butyrivibrio_proteoclasticus	0.920959332423659	0.01	1	Bacter_Bacter
+s__Roseburia_hominis	s__Butyrivibrio_proteoclasticus	0.442697196220323	0.02	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Butyrivibrio_proteoclasticus	0.696619387823514	0	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Butyrivibrio_proteoclasticus	0.839510966165954	0.01	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Butyrivibrio_proteoclasticus	0.380571857795579	0.02	1	Bacter_Bacter
+s__Starkeya_novella	s__Butyrivibrio_proteoclasticus	-0.251219811289312	0.03	-1	Bacter_Bacter
+s__Edwardsiella_anguillarum	s__Christensenella_sp._Marseille-P3954	0.269893908259219	0.02	1	Bacter_Bacter
+s__Faecalibacterium_prausnitzii	s__Christensenella_sp._Marseille-P3954	-0.383609046182639	0	-1	Bacter_Bacter
+s__Faecalitalea_cylindroides	s__Christensenella_sp._Marseille-P3954	0.377691470752187	0.02	1	Bacter_Bacter
+s__Haemophilus_parainfluenzae	s__Christensenella_sp._Marseille-P3954	-0.244796860658123	0.01	-1	Bacter_Bacter
+s__Lachnospira_eligens	s__Christensenella_sp._Marseille-P3954	-0.270605513165883	0.04	-1	Bacter_Bacter
+s__Oscillibacter_sp._NSJ-62	s__Christensenella_sp._Marseille-P3954	0.513078339633674	0	1	Bacter_Bacter
+s__Paenibacillus_larvae	s__Christensenella_sp._Marseille-P3954	0.358038404298033	0	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Christensenella_sp._Marseille-P3954	-0.329171315955882	0.02	-1	Bacter_Bacter
+s__Ruminococcus_albus	s__Christensenella_sp._Marseille-P3954	0.31781093013044	0.02	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Christensenella_sp._Marseille-P3954	0.451893991217997	0.02	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Christensenella_sp._Marseille-P3954	0.334691577516401	0.03	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Christensenella_sp._Marseille-P3954	0.484836329813366	0.02	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Clostridium_novyi	0.348433668863268	0.03	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Clostridium_novyi	0.297595099545659	0.02	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Clostridium_novyi	0.226810944831692	0.03	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Collinsella_aerofaciens	-0.241101485398879	0.04	-1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Collinsella_aerofaciens	-0.262843907911622	0.01	-1	Bacter_Bacter
+s__Coprococcus_comes	s__Coprococcus_catus	0.468038313730791	0.03	1	Bacter_Bacter
+s__Dorea_longicatena	s__Coprococcus_catus	0.499743511576677	0.01	1	Bacter_Bacter
+s__Eubacterium_sp._NSJ-61	s__Coprococcus_catus	0.336997435728183	0.01	1	Bacter_Bacter
+s__Ligilactobacillus_ruminis	s__Coprococcus_catus	0.275882543503267	0.04	1	Bacter_Bacter
+s__Mageeibacillus_indolicus	s__Coprococcus_catus	0.23699146626476	0.02	1	Bacter_Bacter
+s__Roseburia_hominis	s__Coprococcus_catus	0.324201341277496	0.02	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Coprococcus_catus	0.246659435794035	0.04	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Coprococcus_catus	0.370125586359474	0.01	1	Bacter_Bacter
+s__Dorea_longicatena	s__Coprococcus_comes	0.344577841001447	0.04	1	Bacter_Bacter
+s__Coprococcus_sp._ART55/1	s__Coprococcus_eutactus	0.708825669953476	0	1	Bacter_Bacter
+s__Lachnospira_eligens	s__Coprococcus_eutactus	0.356623872624016	0.02	1	Bacter_Bacter
+s__Mageeibacillus_indolicus	s__Coprococcus_eutactus	0.271128060025396	0.03	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Coprococcus_eutactus	0.538267514031429	0	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Coprococcus_eutactus	0.39606589308373	0.04	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Coprococcus_eutactus	0.474405958121437	0	1	Bacter_Bacter
+s__Eubacterium_sp._MSJ-33	s__Coprococcus_sp._ART55/1	0.215093564836615	0.04	1	Bacter_Bacter
+s__Lachnospira_eligens	s__Coprococcus_sp._ART55/1	0.243091039086075	0.02	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Coprococcus_sp._ART55/1	0.290094195059655	0.04	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Coprococcus_sp._ART55/1	0.234095309412126	0.03	1	Bacter_Bacter
+s__Odoribacter_splanchnicus	s__Desulfovibrio_piger	0.245445072818125	0.04	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Desulfovibrio_piger	-0.251327235503025	0	-1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Desulfovibrio_piger	-0.241840795835525	0.04	-1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Desulfovibrio_piger	-0.26724936183613	0.03	-1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Desulfovibrio_piger	0.223314552140121	0.02	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Desulfovibrio_piger	0.274163440919447	0.01	1	Bacter_Bacter
+s__Oscillibacter_sp._NSJ-62	s__Edwardsiella_anguillarum	0.268898115542005	0.03	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Edwardsiella_anguillarum	-0.26015100143956	0.04	-1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Edwardsiella_anguillarum	-0.244995966098185	0.01	-1	Bacter_Bacter
+s__Starkeya_novella	s__Edwardsiella_anguillarum	0.316725103722193	0.03	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Edwardsiella_anguillarum	0.307733811914911	0.02	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Edwardsiella_anguillarum	0.379280017645352	0.01	1	Bacter_Bacter
+s__Paenibacillus_larvae	s__Eubacterium_sp._MSJ-33	0.280007680013857	0.01	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Eubacterium_sp._MSJ-33	0.236425572271396	0.04	1	Bacter_Bacter
+s__Faecalitalea_cylindroides	s__Eubacterium_sp._NSJ-61	0.229015183123851	0.04	1	Bacter_Bacter
+s__Roseburia_hominis	s__Eubacterium_sp._NSJ-61	0.212546962125073	0.03	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Eubacterium_sp._NSJ-61	0.240626597415347	0.04	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Eubacterium_sp._NSJ-61	0.239127493779175	0.02	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Eubacterium_sp._NSJ-61	0.239443945805496	0.04	1	Bacter_Bacter
+s__Faecalibacterium_prausnitzii	s__Faecalibacterium_duncaniae	0.251317760363519	0	1	Bacter_Bacter
+s__Haemophilus_parainfluenzae	s__Faecalibacterium_prausnitzii	0.252301462498002	0.03	1	Bacter_Bacter
+s__Oscillibacter_sp._NSJ-62	s__Faecalibacterium_prausnitzii	-0.289284943094092	0.03	-1	Bacter_Bacter
+s__Paenibacillus_larvae	s__Faecalibacterium_prausnitzii	-0.298284216580355	0.01	-1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Faecalibacterium_prausnitzii	0.2700301237283	0.01	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Faecalibacterium_prausnitzii	0.319302146222635	0.03	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Faecalibacterium_prausnitzii	0.38595762524662	0.02	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Faecalibacterium_prausnitzii	-0.224769239654137	0.03	-1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Faecalibacterium_prausnitzii	-0.288725218898429	0.01	-1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Faecalibacterium_prausnitzii	-0.381085487647173	0.03	-1	Bacter_Bacter
+s__Oscillibacter_sp._NSJ-62	s__Faecalitalea_cylindroides	0.222433513116195	0.03	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Lachnospira_eligens	0.378089235414465	0.01	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Lachnospira_eligens	0.315840430598505	0	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Lachnospira_eligens	0.371946580914759	0.01	1	Bacter_Bacter
+s__Butyrivibrio_proteoclasticus	s__Ligilactobacillus_ruminis	0.447074598880859	0	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Ligilactobacillus_ruminis	0.500468302953058	0.01	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Ligilactobacillus_ruminis	0.312072059460921	0.04	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Ligilactobacillus_ruminis	0.441754110709999	0	1	Bacter_Bacter
+s__Pseudobutyrivibrio_xylanivorans	s__Mageeibacillus_indolicus	0.386397220676967	0.01	1	Bacter_Bacter
+s__Roseburia_hominis	s__Mageeibacillus_indolicus	0.240471314791252	0.02	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Mageeibacillus_indolicus	0.221472991019124	0.04	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Mageeibacillus_indolicus	0.305566471023249	0	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Mageeibacillus_indolicus	0.205497602204009	0.04	1	Bacter_Bacter
+s__Paenibacillus_larvae	s__Oscillibacter_sp._NSJ-62	0.296172654344428	0	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Oscillibacter_sp._NSJ-62	0.332672739272831	0.03	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Oscillibacter_sp._NSJ-62	0.482322417432871	0.02	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Oscillibacter_sp._NSJ-62	0.618183289621362	0.01	1	Bacter_Bacter
+s__Oscillibacter_sp._NSJ-62	s__Paenibacillus_larvae	0.296172654344429	0	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Paenibacillus_larvae	0.375446757656175	0	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Paenibacillus_larvae	0.304357286480126	0.03	1	Bacter_Bacter
+s__Starkeya_novella	s__Paenibacillus_larvae	0.245448870486431	0.01	1	Bacter_Bacter
+Aspergillus ustus	s__Pseudobutyrivibrio_xylanivorans	0.271406418343133	0.03	1	Bacter_fungi
+s__Roseburia_hominis	s__Pseudobutyrivibrio_xylanivorans	0.414385806889258	0.03	1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Pseudobutyrivibrio_xylanivorans	0.657574797132557	0.01	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Pseudobutyrivibrio_xylanivorans	0.830678953594036	0	1	Bacter_Bacter
+s__Ruminococcus_albus	s__Pseudobutyrivibrio_xylanivorans	0.293213504348244	0.03	1	Bacter_Bacter
+s__Starkeya_novella	s__Pseudobutyrivibrio_xylanivorans	-0.307701496715831	0.02	-1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Pseudobutyrivibrio_xylanivorans	-0.347423923664778	0.01	-1	Bacter_Bacter
+s__Roseburia_intestinalis	s__Roseburia_hominis	0.39039746595606	0.01	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Roseburia_hominis	0.472096307775521	0.02	1	Bacter_Bacter
+s__Roseburia_sp._NSJ-69	s__Roseburia_intestinalis	0.887256133338603	0	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Roseburia_intestinalis	-0.240577128144118	0.01	-1	Bacter_Bacter
+s__Ruminococcus_albus	s__Roseburia_sp._NSJ-69	0.230430057366318	0.03	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Roseburia_sp._NSJ-69	-0.246994463822324	0.03	-1	Bacter_Bacter
+s__Starkeya_novella	s__Roseburia_sp._NSJ-69	-0.274662549482555	0.01	-1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Roseburia_sp._NSJ-69	-0.431273660861984	0	-1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Ruminococcus_albus	0.481450470669531	0.01	1	Bacter_Bacter
+s__Ruminococcus_champanellensis	s__Ruminococcus_bicirculans	0.263066602187333	0.01	1	Bacter_Bacter
+s__Starkeya_novella	s__Ruminococcus_champanellensis	0.205698968017353	0.03	1	Bacter_Bacter
+s__Vescimonas_coprocola	s__Ruminococcus_champanellensis	0.289444839244534	0.01	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Ruminococcus_champanellensis	0.431074271275361	0.01	1	Bacter_Bacter
+s__Vescimonas_fastidiosa	s__Vescimonas_coprocola	0.629694472259798	0.01	1	Bacter_Bacter
