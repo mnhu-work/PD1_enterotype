@@ -12,29 +12,29 @@ data <- data.frame(
   unfavor_type = c(387, 821, 375)
 )
 
-# 加载必要的包
+# 
 library(tidyr)
 library(dplyr)
 library(ggplot2)
 
-# 原始数据
+# 
 data <- data.frame(
   new_column = c("Bacter_Bacter", "Bacter_fungi", "fungi_fungi"),
   favor_type = c(382, 757, 339),
   unfavor_type = c(387, 821, 375)
 )
 
-# 数据变形为长格式
+# 
 data_long <- data %>%
   pivot_longer(cols = c(favor_type, unfavor_type), names_to = "category", values_to = "count")
 
-# 计算百分比
+#
 data_long <- data_long %>%
   group_by(category) %>%
   mutate(percent = count / sum(count) * 100) %>%
   ungroup()
 
-# 绘制圆饼图
+#
 ggplot(data_long, aes(x="", y=percent, fill=new_column)) + 
   geom_bar(stat="identity", width=1, alpha=0.6) +
   coord_polar("y") +
@@ -65,32 +65,27 @@ data1 <- data.frame(
   unfavor_type = c(43,778)
 )
 
-# 加载必要的包
+
 library(tidyr)
 library(dplyr)
 library(ggplot2)
 
-# 原始数据
 data1 <- data.frame(
   new_column = c("positive", "negative"),
   favor_type = c(148, 609),
   unfavor_type = c(43, 778)
 )
 
-# 数据变形为长格式
 data1_long <- data1 %>%
   pivot_longer(cols = c(favor_type, unfavor_type), names_to = "category", values_to = "count")
 
-# 计算百分比
 data1_long <- data1_long %>%
   group_by(category) %>%
   mutate(percent = count / sum(count) * 100) %>%
   ungroup()
 
-# 自定义颜色
 my_colors <- c("positive" = "#b15928", "negative" = "#b2df8a")
 
-# 绘制堆叠百分比柱形图
 p <- ggplot(data1_long, aes(fill = new_column, y = percent, x = category)) + 
   geom_bar(position = "stack", stat = "identity", alpha = 0.6) +
   scale_fill_manual(values = my_colors) +
@@ -103,10 +98,7 @@ p <- ggplot(data1_long, aes(fill = new_column, y = percent, x = category)) +
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank())
 
-# 显示图表
 print(p)
-
-# 保存图表为 PDF 文件
 ggsave(filename="Bacter_fungi_correlation_compar.pdf", plot = p, width=4.5, height=6)
 
 
